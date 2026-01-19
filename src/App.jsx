@@ -1,9 +1,10 @@
 import "./App.css";
-import Navbar from "./components/Navbar.jsx";
 import Home from "./Components/Home.jsx";
 import About from "./Components/About.jsx";
 import Work from "./Components/Work.jsx";
 import Contact from "./Components/Contact.jsx";
+import Navbar from "./Components/Navbar.jsx";
+
 function App() {
   return (
     <>
